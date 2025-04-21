@@ -16,11 +16,11 @@
 
 <div align="center">
 
+![GitHub Streak](https://streak-stats.demolab.com?user=devziaulqamar&theme=github-dark&border_radius=6&mode=weekly)
+
 ![Zia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devziaulqamar&show_icons=true&theme=github_dark&include_all_commits=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devziaulqamar&layout=compact&theme=github_dark&langs_count=6)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=devziaulqamar&theme=github-dark&border_radius=6&mode=weekly)
 
 </div>
 
