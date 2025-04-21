@@ -14,10 +14,6 @@
 
 ### ⚡️ Dynamic Profile Metrics
 
-<h2>
-  <i> GitHub Stats:</i>
-</h2>
-
 <table border="1">
   <tr>
     <td valign="top">
