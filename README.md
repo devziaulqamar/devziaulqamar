@@ -14,15 +14,33 @@
 
 ### ⚡️ Dynamic Profile Metrics
 
-<div align="center">
+<h2>
+  <i> GitHub Stats:</i>
+</h2>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=devziaulqamar&theme=github-dark&border_radius=6&mode=weekly)
+<table border="1">
+  <tr>
+    <td valign="top">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=devziaulqamar&count_private=true&show_icons=true&icon_color=FFA500&title_color=f4791f&bg_color=0,03071e,0F2027,03071e&text_color=abcdef&border_radius=10" alt ="Zia ul Qamar's GitHub stats"/>
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devziaulqamar&layout=compact&langs_count=10&hide_border=true" alt ="Top Languages"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://git.io/streak-stats">
+        <img src="http://github-readme-streak-stats.herokuapp.com?user=devziaulqamar&hide_border=true&background=f6f8fa&stroke=001427&ring=e36414&fire=e36414&currStreakNum=03045e&sideNums=03045e&currStreakLabel=03045e&sideLabels=240046&dates=fb5607&date_format=j%20M%5B%20Y%5D" alt ="Zia ul Qamar's GitHub Readme Streak Stats"/>
+      </a>
+    </td> 
+  </tr>
+</table>
+<br>
 
-![Zia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devziaulqamar&show_icons=true&theme=github_dark&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devziaulqamar&layout=compact&theme=github_dark&langs_count=6)
-
-</div>
 
 ---
 
