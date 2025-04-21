@@ -4,12 +4,29 @@
 
 ---
 
-### 🚀 About Me
-I'm **Zia ul Qamar**, a passionate developer crafting modern web experiences and powerful Microsoft Office Add-ins. With a focus on productivity and simplicity, I love blending code with creativity to deliver scalable, smart solutions.
+### 🚀 Core Competencies
+**Office Solutions**: Office Add-ins • VSTO • Office.js  
+**Frontend Architecture**: React • TypeScript • Tailwind • Modern UI/UX  
+**Cloud & Backend**: Node.js • .NET • Firebase • REST APIs  
+**Workflow & Automation**: Firebase Auth • CI/CD • Productivity Boosters  
 
 ---
 
-### 🛠️ My Tech Toolbox
+### ⚡️ Dynamic Profile Metrics
+
+<div align="center">
+
+![Zia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devziaulqamar&show_icons=true&theme=github_dark&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devziaulqamar&layout=compact&theme=github_dark&langs_count=6)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=devziaulqamar&theme=github-dark&border_radius=6&mode=weekly)
+
+</div>
+
+---
+
+### 🛠️ Tech Toolbox
 
 #### **Frontend & UI**
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
@@ -35,20 +52,6 @@ I'm **Zia ul Qamar**, a passionate developer crafting modern web experiences and
 
 ---
 
-### ⚡ GitHub Stats
-
-<div align="center">
-
-![Zia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devziaulqamar&show_icons=true&theme=github_dark&include_all_commits=true)
-  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devziaulqamar&layout=compact&theme=github_dark&langs_count=6)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=devziaulqamar&theme=github-dark&border_radius=6&mode=weekly)
-
-</div>
-
----
-
 ### 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devziaulqamar/)
@@ -59,20 +62,20 @@ I'm **Zia ul Qamar**, a passionate developer crafting modern web experiences and
 
 ---
 
-### ✨ Latest Projects & Initiatives
-- 🔧 Building advanced **Excel/Word add-ins** using Office.js & VSTO
-- 🔒 Exploring **authentication workflows** in Office integrations
-- ⚙️ Developing **Firebase-authenticated React apps**
-- 🚀 Expanding my **freelance business and portfolio**
+### 💡 Recent Projects & Initiatives
+
+- 🔧 Advanced **Excel/Word add-ins** (Office.js & VSTO)
+- 🔐 Firebase-based **authentication flows** in Office
+- ⚙️ Smart tools for **React-based admin panels**
+- 🚀 Scaling up **freelance workflows & branding**
 
 ---
 
-### 📈 Activity Graph
+### 📈 GitHub Activity Graph
 
 [![Zia's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=devziaulqamar&theme=github-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
 <!-- SEO Keywords -->
-<!-- Office Add-ins Developer | React TypeScript Dev | VSTO Expert | Word Excel Add-in Developer | Office.js | Full Stack Developer | Firebase Authentication | Node.js Backend Developer | .NET Office Dev -->
-
+<!-- Office Add-ins Developer | React TypeScript Dev | VSTO Expert | Word Excel Add-in Developer | Office.js | Full Stack Developer | Firebase Auth | Node.js Backend Developer | .NET Office Dev -->
